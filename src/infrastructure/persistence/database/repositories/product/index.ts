@@ -1,0 +1,6 @@
+export * from './create-product.prisma.repository'
+export * from './delete-product.prisma.repository'
+export * from './find-all-products.prisma.repository'
+export * from './find-product-by-condition.prisma.repository'
+export * from './find-product-by-id.prisma.repository'
+export * from './update-product.prisma.repository'
